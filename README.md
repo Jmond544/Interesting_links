@@ -5,5 +5,4 @@
 |`freCodeCamp` Help to translate|[website](https://www.freecodecamp.org/news/help-translate-freecodecamp-language/)|
 |`refactoring.guru` Design Patterns|[website](https://refactoring.guru/es/design-patterns)|
 |`goalkicker` Interesting books|[website](https://books.goalkicker.com/)|
-|`medium` Connect VS Code Jupyter notebook to a Jupyter container
-Frederico Araújo Soares |[website](https://medium.com/@FredAsDev/connect-vs-code-jupyter-notebook-to-a-jupyter-container-a63293f29325)|
+|`medium` Connect VS Code Jupyter notebook to a Jupyter container|[website](https://medium.com/@FredAsDev/connect-vs-code-jupyter-notebook-to-a-jupyter-container-a63293f29325)|
